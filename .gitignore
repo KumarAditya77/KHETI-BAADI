@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+backend/venv/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+model.keras
